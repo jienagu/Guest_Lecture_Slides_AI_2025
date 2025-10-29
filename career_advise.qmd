@@ -1,0 +1,121 @@
+---
+title: "Turning Curiosity into Career Superpower"
+subtitle: "How to use AI as your most resourceful teammate at work"
+author: "Jiena Gu McLellan (McKinsey & Company)"
+date: "2025-10-31"
+format:
+  revealjs: 
+    theme: moon
+editor: visual
+---
+
+## What is AI, really?
+
+-   A powerful semantic search engine that understands meaning, not just keywords
+
+-   A Large Language Model (LLM) that learns from patterns in language
+
+-   How it predicts “the next word” from context
+
+## What is AI, really?
+
+→ It looks like magic — but it’s not scary at all. It’s logic with personality.
+
+![](ai_diagram.png)
+
+## Build Your Own Mini AI
+
+-   Demo: A very simple search + distance-based LLM [Link](https://github.com/jienagu/NLP_Recommendation)
+
+-   Learn what’s actually happening behind ChatGPT in under 10 minutes:
+
+Text → embedding → vector space → distance = similarity → Understanding the fundamentals makes AI feel less like sorcery, more like skill.
+
+## Pros & Cons of Your AI Friend
+
+Pros
+
+-   knows (almost) everything on the internet
+
+-   helps you ramp up fast — new language, new field, new idea
+
+-   Great for brainstorming and drafting your first version
+
+## Pros & Cons of Your AI Friend
+
+![](AI_meme.png){fig-align="center"}
+
+## Pros & Cons of Your AI Friend
+
+Cons
+
+-   Can hallucinate — confidently wrong answers
+
+-   Can’t access information outside its training data
+
+→ Like a smart friend who sometimes “guesses,” so always verify.
+
+Why It Matters?
+
+> Executing intelligence is easy, but executing it with wisdom is hard
+
+## AI at Work — A Force Multiplier
+
+-   Example use case: Recommendation System
+
+    -   Reduce manual search
+
+    -   Guide users to what they actually need
+
+-   Think of AI as your time-saver teammate, not a replacement → It automates the repetitive, so you can innovate the meaningful.
+
+## Let Developers Focus on Problem-Solving
+
+Developers often define themselves by their tools — Python, R, JavaScript. But the real superpower is **problem-solving**, not syntax.
+
+> “Don’t fall in love with your code. Fall in love with solving the problem.”
+
+When we focus on outcomes, we design better systems — flexible, maintainable, and truly helpful.
+
+AI helps us shift from builders of things → solvers of needs.
+
+## Storytime — Win User Trust
+
+Every great AI project starts with empathy.
+
+-   Find your users’ pain points
+
+-   Build a RAG system (Retrieval-Augmented Generation) to ground answers in real data
+
+-   Example: An internal analytics tool that helps users query data in plain English → Trust is earned when AI answers match what users already believe.
+
+## Storytime — When AI Misleads
+
+-   With great power comes great responsibility.
+
+-   Validate AI output before it reaches users
+
+-   Use feedback loops, confidence scores, and human-in-the-loop review
+
+Admit mistakes, learn, improve → We don’t just build AI; we teach it to be trustworthy.
+
+## Discussion — How Will You Use AI?
+
+Prompt:
+
+> “If you could add one AI feature to your current project or daily workflow — what would it be?”
+
+Encourage:
+
+-   Collaboration ideas (AI assistant for your class? A resume optimizer? A code reviewer?)
+
+-   Discussion on ethical and creative uses
+
+→ Making friends with AI starts with a conversation — maybe today’s one.
+
+## Let’s Connect 🤝
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jienagu)
+- 📧 [Personal Website](https://www.jienamclellan.com/)
+- 🧠 GitHub: [jienagu](https://github.com/jienagu)
+- 💬 Feel free to reach out for tech talks or collaboration!
